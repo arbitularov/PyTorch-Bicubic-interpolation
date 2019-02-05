@@ -20,7 +20,7 @@ pip3 install numba
 
 <center>
     <figure>
-        <img src="ima/all.png" height="60%" width="100%">
+        <img src="img/all.png" height="60%" width="100%">
         <figcaption>
         </figcaption>
     </figure>
