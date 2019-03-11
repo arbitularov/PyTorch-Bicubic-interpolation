@@ -11,6 +11,7 @@ This code is written in Python 3.6
 
 ```
 # Use pip for python 2.7 and pip3 for python 3.6
+
 pip3 install torch torchvision
 pip3 install numpy
 pip3 install numba
